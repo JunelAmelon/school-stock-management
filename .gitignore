@@ -1,0 +1,4 @@
+# Ignore les fichiers de configuration de dotenv
+.env
+node_modules
+config
